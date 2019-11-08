@@ -1,2 +1,2 @@
-# spring-cloud-config-server
-spring-cloud-config-server - sample snippet for cloud config server development
+# spring-cloud
+spring-cloud - parent project for spring custom cloud sub-modules
